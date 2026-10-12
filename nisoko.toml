@@ -1,0 +1,4 @@
+name = 'aviator'
+slug = 'aviator-khund'
+ram_size = 1536
+vcpu = 1.0

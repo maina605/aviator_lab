@@ -1,0 +1,4 @@
+.git
+.gitignore
+*.log
+database/*.sqlite-journal
